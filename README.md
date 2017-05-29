@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+### Objetivo del Curso
 
-You can use the [editor on GitHub](https://github.com/theonfx/TheTeatherGame/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Aplicar los conocimientos obtenidos en la materia de programación orientada a objetos
+enfocándolos en la realización de un juego en el lenguaje Java.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Objetivo del Juego
 
-### Markdown
+Completar todos los minijuegos hasta superar el nivel final. Cada minijuego consiste de un escenario (nivel) diferente, bastará con seguir las indicaciones y ser lo suficientemente rápido para realizarlas a tiempo y superar los retos.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Descripción
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### Docente
+César Augusto Ramírez Gámez
 
-- Bulleted
-- List
+### Autores
+Jairo Trujillo Méndez
+Erick Garrigos Saucedo
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/theonfx/TheTeatherGame/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Enlaces
+YouTube: [Link](http://youtube.com/xd)
+GreenFoot: [Link](http://www.greenfoot.org/scenarios/19481)
+Diagrama de Clases: [Link](http://imgur.com/a/0OVSY)
