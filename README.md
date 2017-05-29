@@ -15,9 +15,13 @@ César Augusto Ramírez Gámez
 
 ### Autores
 Jairo Trujillo Méndez
+
 Erick Garrigos Saucedo
 
 ### Enlaces
 YouTube: [http://youtube.com/xd](http://youtube.com/xd)
+
 GreenFoot: [http://www.greenfoot.org/scenarios/19481](http://www.greenfoot.org/scenarios/19481)
+
 Diagrama de Clases: [http://imgur.com/a/0OVSY](http://imgur.com/a/0OVSY)
+
