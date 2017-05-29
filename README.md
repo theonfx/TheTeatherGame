@@ -18,6 +18,6 @@ Jairo Trujillo Méndez
 Erick Garrigos Saucedo
 
 ### Enlaces
-YouTube: [Link](http://youtube.com/xd)
-GreenFoot: [Link](http://www.greenfoot.org/scenarios/19481)
-Diagrama de Clases: [Link](http://imgur.com/a/0OVSY)
+YouTube: [http://youtube.com/xd](http://youtube.com/xd)
+GreenFoot: [http://www.greenfoot.org/scenarios/19481](http://www.greenfoot.org/scenarios/19481)
+Diagrama de Clases: [http://imgur.com/a/0OVSY](http://imgur.com/a/0OVSY)
